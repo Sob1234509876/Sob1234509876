@@ -8,4 +8,6 @@ He is a student who hates rhetoric class called "Chinese" and learn a little of 
 
 Current work
 ---
-Making a little word-only game called Omni com. What does it mean for word-only game? It means that the whole game is only consists of words like reading a novel, except that you are writing the novel (Pretty much like ZORK-I).
+***(This is outdated)*** Making a little word-only game called Omni com. What does it mean for word-only game? It means that the whole game is only consists of words like reading a novel, except that you are writing the novel (Pretty much like ZORK-I).
+
+***(Current)*** Making a little Java game called Omni com. Currently making an architecture for it. See [https://github.com/Sob1234509876/Omni-com], [https://github.com/Sob1234509876/Omni-com-GDK], [https://github.com/Sob1234509876/Vanilla].
